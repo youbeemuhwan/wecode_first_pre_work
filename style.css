@@ -79,9 +79,10 @@ left: 49px;
     text-align: center;
     white-space: nowrap;
     
-   color: #ddd5d5;
+
 }    
 
+a:visited {color:#58595b;} 
 #lovepic{
     
     text-align: center;
