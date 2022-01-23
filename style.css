@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(194, 181, 181, 0.11);
+    color: #58595b;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+#menu a{
+   
+    font-size: 16px;
+    color: #58595b;
+    text-decoration: none;
+    font-family: Helvetica,Arial,Sans-Serif;
+    padding-left: 200px;
+    padding-right: 200px;
+    white-space: nowrap;
+    text-align: center;
+}
+   
+    
+  
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+
+
+.mainimg{
+    margin-right: 60px;
+    text-align: center;
+    
+    
+}
+
+.hongmain{
+    
+    text-align: center;
+    
+    
+    
+    
+}
+
+.bubble 
+{
+position: relative;
+width: 250px;
+height: 120px;
+padding: 0px;
+background: #ddd5d5;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+margin : 5% 0 0 40%;
+text-align: center;
+
+}
+
+.bubble:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 19px 21px 0;
+border-color: #ddd5d5 transparent;
+display: block;
+width: 0;
+z-index: 1;
+bottom: -19px;
+left: 49px;
+
+}
+
+
+.emo{
+    text-align: center;
+    white-space: nowrap;
+    
+   color: #ddd5d5;
+}    
+
+#lovepic{
+    
+    text-align: center;
+    margin-top: 25px;
+}
+
